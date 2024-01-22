@@ -933,7 +933,7 @@ The urls of papers are not updated.
 
 ## Dataset 
 
-The datasets we mentioned are listed here.
+The URL of the datasets we mentioned are listed here.
 
 ### QA
 
