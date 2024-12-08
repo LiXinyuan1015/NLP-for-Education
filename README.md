@@ -68,35 +68,35 @@ This is a list of papers and dataset URLs cited by our paper "Survey of Natural 
 
 8. **Automated grading and feedback tools for programming education: A systematic review**, TOCE (2023)
 
-​      *Messer, M., Brown, N.C.C., K ̈olling, M., Shi, M.* [[pdf](https://arxiv.org/pdf/2306.11722.pdf)]
+   *Messer, M., Brown, N.C.C., K ̈olling, M., Shi, M.* [[pdf](https://arxiv.org/pdf/2306.11722.pdf)]
 
 9. **Adapting large language models for education: Foundational capabilities, potentials, and challenges**, arXiv preprint arXiv:2401.08664 (2023)
 
-​      *Q. Li, L. Fu, W. Zhang, X. Chen, J. Yu, W. Xia, W. Zhang, R. Tang, and Y. Yu.* [[pdf](https://arxiv.org/pdf/2401.08664)]
+   *Q. Li, L. Fu, W. Zhang, X. Chen, J. Yu, W. Xia, W. Zhang, R. Tang, and Y. Yu.* [[pdf](https://arxiv.org/pdf/2401.08664)]
 
 10. **Large language models for education: A survey and outlook**, arXiv preprint arXiv:2403.18105(2024)
 
-​      *S. Wang, T. Xu, H. Li, C. Zhang, J. Liang, J. Tang, P. S. Yu, and Q. Wen.* [[pdf](https://arxiv.org/pdf/2403.18105)]
+    *S. Wang, T. Xu, H. Li, C. Zhang, J. Liang, J. Tang, P. S. Yu, and Q. Wen.* [[pdf](https://arxiv.org/pdf/2403.18105)]
 
 11. **Information extraction from scientific paper using rhetorical classifier**, ICEEI(2011)
 
-​      *M. L. Khodra, D. H. Widyantoro, E. Aziz, and R. T. Bambang.* [[linking](https://ieeexplore.ieee.org/document/6021634)]
+    *M. L. Khodra, D. H. Widyantoro, E. Aziz, and R. T. Bambang.* [[linking](https://ieeexplore.ieee.org/document/6021634)]
 
 12. **Conversational agents for information retrieval in the education domain: A usercentered design investigation**, HCI(2022)
 
-​      *A. Schmitt, T. Wambsganss, and J. M. Leimeister.* [[linking](https://dl.acm.org/doi/10.1145/3555587)]
+    *A. Schmitt, T. Wambsganss, and J. M. Leimeister.* [[linking](https://dl.acm.org/doi/10.1145/3555587)]
 
 13. **Multi-source education knowledge graph construction and fusion for college curricula**, ICALT(2023)
 
-​      *L. Cripwell, J. Legrand, and C. Gardent.* [[pdf](https://arxiv.org/pdf/2305.04567)]
+    *L. Cripwell, J. Legrand, and C. Gardent.* [[pdf](https://arxiv.org/pdf/2305.04567)]
 
 14. **Context-aware document simplification**, ACL(2023)
 
-​      *S. Wang, T. Xu, H. Li, C. Zhang, J. Liang, J. Tang, P. S. Yu, and Q. Wen.* [[pdf](https://aclanthology.org/2023.findings-acl.834.pdf)]
+    *S. Wang, T. Xu, H. Li, C. Zhang, J. Liang, J. Tang, P. S. Yu, and Q. Wen.* [[pdf](https://aclanthology.org/2023.findings-acl.834.pdf)]
 
 15. **Diffusion-lm improves controllable text generation**, NeurIPS(2022)
 
-​      *X. Li, J. Thickstun, I. Gulrajani, P. S. Liang, and T. B. Hashimoto.* [[pdf](https://arxiv.org/pdf/2205.14217)]
+    *X. Li, J. Thickstun, I. Gulrajani, P. S. Liang, and T. B. Hashimoto.* [[pdf](https://arxiv.org/pdf/2205.14217)]
 
 
 
@@ -327,7 +327,7 @@ This is a list of papers and dataset URLs cited by our paper "Survey of Natural 
 
 24. **Achieving >97% on GSM8K: Deeply Understanding the Problems Makes LLMs Better Solvers for Math Word Problems**, arXiv preprint arXiv:2404.14963 (2024)
 
-    *. Zhong, K. Wang, Z. Xu, J. Liu, L. Ding, and B. Du,.* [[pdf](https://arxiv.org/pdf/2404.14963.pdf)]
+    *Zhong, K. Wang, Z. Xu, J. Liu, L. Ding, and B. Du,.* [[pdf](https://arxiv.org/pdf/2404.14963.pdf)]
 
 25. **Aggregating multiple heuristic signals as supervision for unsupervised automated essay scoring**, ACL (2023)
 
@@ -343,43 +343,43 @@ This is a list of papers and dataset URLs cited by our paper "Survey of Natural 
 
 28. **How well do computers solve math word problems? large-scale dataset construction and evaluation**, ACL (2016)
 
-​       *Liu, H., Li, C., Wu, Q., Lee, Y.J.* [[pdf](https://aclanthology.org/P16-1084.pdf)]
+    *Liu, H., Li, C., Wu, Q., Lee, Y.J.* [[pdf](https://aclanthology.org/P16-1084.pdf)]
 
 29. **Annotating derivations: A new evaluation strategy and dataset for algebra word problems**, arXiv preprint arXiv:11609.07197 (2016)
 
-​      *Upadhyay, S., Chang, M.-W.* [[pdf](https://arxiv.org/pdf/11609.07197.pdf)]
+    *Upadhyay, S., Chang, M.-W.* [[pdf](https://arxiv.org/pdf/11609.07197.pdf)]
 
 30. **Deep neural solver for math word problems**, EMNLP (2017)
 
-​     *Wang, Y., Liu, X., Shi, S.* [[pdf](https://aclanthology.org/D17-1088.pdf)]
+    *Wang, Y., Liu, X., Shi, S.* [[pdf](https://aclanthology.org/D17-1088.pdf)]
 
 31. **MathQA: Towards interpretable math word problem solving with operation-based formalisms**,  (2019)
 
-​     *Amini, A., Gabriel, S., Lin, S., Koncel-Kedziorski, R., Choi, Y., Hajishirzi, H.* [[pdf](https://aclanthology.org/N19-1245.pdf)]
+    *Amini, A., Gabriel, S., Lin, S., Koncel-Kedziorski, R., Choi, Y., Hajishirzi, H.* [[pdf](https://aclanthology.org/N19-1245.pdf)]
 
 32. **A diverse corpus for evaluating and developing English math word problem solvers**,  (2020)
 
-​     *Miao, S.-y., Liang, C.-C., Su, K.-Y.* [[pdf](https://arxiv.org/ftp/arxiv/papers/2106/2106.15772.pdf)]
+    *Miao, S.-y., Liang, C.-C., Su, K.-Y.* [[pdf](https://arxiv.org/ftp/arxiv/papers/2106/2106.15772.pdf)]
 
 33. **Training Verifiers to Solve Math Word Problems**,  (2021)
 
-​     *Cobbe, K., Kosaraju, V., Bavarian, M., Chen, M., Jun, H., Kaiser, L., Plappert, M., Tworek, J., Hilton, J., Nakano,     R., Hesse, C., Schulman, J.* [[pdf](https://arxiv.org/pdf/2110.14168.pdf)]
+    *Cobbe, K., Kosaraju, V., Bavarian, M., Chen, M., Jun, H., Kaiser, L., Plappert, M., Tworek, J., Hilton, J., Nakano,     R., Hesse, C., Schulman, J.* [[pdf](https://arxiv.org/pdf/2110.14168.pdf)]
 
 34. **Iconqa: A new benchmark for abstract diagram understanding and visual language reasoning**,  (2021)
 
-​     *Lu, P., Qiu, L., Chen, J., Xia, T., Zhao, Y., Zhang, W., Yu, Z., Liang, X., Zhu, S.-C.* [[pdf](https://arxiv.org/pdf/2110.13214.pdf)]
+    *Lu, P., Qiu, L., Chen, J., Xia, T., Zhao, Y., Zhang, W., Yu, Z., Liang, X., Zhu, S.-C.* [[pdf](https://arxiv.org/pdf/2110.13214.pdf)]
 
 35. **Dynamic prompt learning via policy gradient for semi-structured mathematical reasoning**, arXiv preprint arXiv:2209.14610 (2022)
 
-​     *Lu, P., Qiu, L., Chang, K.-W., Wu, Y.N., Zhu, S.-C., Rajpurohit, T., Clark, P., Kalyan, A.* [[pdf](https://arxiv.org/pdf/2209.14610.pdf)]
+    *Lu, P., Qiu, L., Chang, K.-W., Wu, Y.N., Zhu, S.-C., Rajpurohit, T., Clark, P., Kalyan, A.* [[pdf](https://arxiv.org/pdf/2209.14610.pdf)]
 
 36. **The gap of semantic parsing: A survey on automatic math word problem solvers**, TPAMI (2020)
 
-​     *Zhang, D., Wang, L., Zhang, L., Dai, B.T., Shen, H.T.* [[link](https://ieeexplore.ieee.org/abstract/document/8703135)]
+    *Zhang, D., Wang, L., Zhang, L., Dai, B.T., Shen, H.T.* [[link](https://ieeexplore.ieee.org/abstract/document/8703135)]
 
 37. **Tora: A tool-integrated reasoning agent for mathematical problem solving**, arXiv preprint arXiv:2309.17452 (2023)
 
-​     *Gou, Z., Shao, Z., Gong, Y., Yang, Y., Huang, M., Duan, N., Chen, W., et al.* [[pdf](https://arxiv.org/pdf/2309.17452.pdf)]
+    *Gou, Z., Shao, Z., Gong, Y., Yang, Y., Huang, M., Duan, N., Chen, W., et al.* [[pdf](https://arxiv.org/pdf/2309.17452.pdf)]
 
 
 
@@ -759,7 +759,7 @@ This is a list of papers and dataset URLs cited by our paper "Survey of Natural 
 
 3. **Codemaster–automatic assessment and grading of app inventor and snap! programs**, NFEDU 17(1) (2018)
 
-​     *Von Wangenheim, C.G., Hauck, J.C., Demetrio, M.F., Pelle, R., Cruz Alves, N., Barbosa, H.,            	Azevedo,  L.F.* [[pdf](https://files.eric.ed.gov/fulltext/EJ1177148.pdf)]
+​     *Von Wangenheim, C.G., Hauck, J.C., Demetrio, M.F., Pelle, R., Cruz Alves, N., Barbosa, H.,Azevedo,  L.F.* [[pdf](https://files.eric.ed.gov/fulltext/EJ1177148.pdf)]
 
 11. **Petcha: a programming exercises teaching assistant**, TiCSE (2012)
 
